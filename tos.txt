@@ -1,0 +1,33 @@
+## Tickets Now Terms Of Service
+
+-# Last Updated: 12/24/24
+```js
+Welcome to Tickets Now, These Terms of Service ("Terms") govern your use of any Food Plug products("Food Plug", "Tickets Now", "TN", or the "Service", or "Services", "Product") provided by Food Plug/Tickets Now("we," "us," or "our"). By inviting our bot to any server, interacting with the bot inside of your server, you agree to be bound by these Terms. If you do not agree with these Terms, please do not use our Service.
+
+    License
+    Subject to your compliance with these Terms and purchasing our "Premium" option for your servers ("Server", "Servers"), we grant you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to use our Services
+
+    Restrictions
+    In using Tickets Now, you agree not to:
+
+a. DDOS/DoS our servers/CDN, or otherwise attempt to discover or modify the source code or underlying algorithms of Tickets Now or attempt to "Crash" our product(s).
+
+b. Use Tickets Now for any illegal activities, including but not limited to redistribution of our service, the distribution of malware, hacking tools/other malicious software, reselling any illegal items/services.
+
+    Intellectual Property
+    All rights, including all intellectual property such as, Code and Algorithms, are owned by Food Plug/Tickets Now.
+  
+    Information Collection
+    We contain the right to collect information about your server. This may or may not include: Server name, Server ID, If and when premium was purchased, Certain channels for logging Tickets, and Member Count.
+    
+    Termination
+    We may terminate or suspend your access to Tickets Now immediately, without prior notice or liability, if you breach any of these Terms. Upon termination, your right to use Tickets Now will immediately cease(Blacklist). You may also terminate your access to Tickets Now at any time by discontinuing your use of the Service.
+
+    We may also suspend all access to any of our Services at anytime. A "Lifetime" payment is the "Lifetime" of the project, not the users "Lifetime"("lifetime").
+
+    Disclaimer of Warranty and Limitation of Liability
+    Tickets Now is provided on an "as is" basis without any warranties, express or implied. We disclaim all warranties, including any implied warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall we be liable for any damages, including any direct, indirect, incidental, special, or consequential damages, arising out of or in connection with your use of Tickets Now, even if advised of the possibility of such damages.
+
+    Changes to Terms
+    We reserve the right to modify these Terms at any time. Your continued use of Tickets Now after any changes to these Terms will constitute your acceptance of the modified Terms.
+```
